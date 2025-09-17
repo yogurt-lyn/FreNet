@@ -10,4 +10,9 @@
 
 - ## This repo contains an official PyTorch implementation of our paper: <br>
 
-- We will open the source code as soon as the article is accepted.
+训练：
+python train.py --train_data_type=ISIC208 --test_data_type=ISIC208
+测试：
+python test.py --train_data_type=ISIC2018 --test_data_type=ISIC2018
+
+- We will open all model weights after the article is accepted.
