@@ -1,4 +1,4 @@
-# IP-DFRNet：Implicit Prior Driven Dual-Domain Feature Refinement for Medical Image Segmentation
+# Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation
 
 ![Powered by](https://img.shields.io/badge/Based_on-Pytorch-blue?logo=pytorch) 
 ![last commit](https://img.shields.io/github/last-commit/hjklearn/GPIENet)
